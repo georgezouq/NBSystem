@@ -12,7 +12,9 @@ git clone https://github.com/a757375927/NBSystem.git
 ```
 
 ## Framework
+* **jquery:** 
 * **bootstrap:**
 * ***bootstrap-select:***
 * ***bootstrap-toggle:***
 * ***bootstrap-wysihtml5:***
+* **float-chart:**
